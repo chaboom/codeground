@@ -1,4 +1,7 @@
-#include <iostream>#include <vector>using namespace std;
+#include <iostream>
+#include <vector>
+using namespace std;
+
 int Answer;
 int main(int argc, char** argv){ 
   int T, test_case; cin >> T; 
